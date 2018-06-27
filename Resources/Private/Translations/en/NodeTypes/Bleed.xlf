@@ -3,7 +3,7 @@
   <file original="" product-name="Jonnitto.Image" source-language="en" datatype="plaintext">
     <body>
       <trans-unit id="properties.bleed" xml:space="preserve">
-        <source>Full with</source>
+        <source>Full width</source>
       </trans-unit>
     </body>
   </file>
